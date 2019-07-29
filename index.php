@@ -1,5 +1,7 @@
 <?php
 
+/*Lorem Comment*/
+
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
