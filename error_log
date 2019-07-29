@@ -1,0 +1,6 @@
+[15-Jun-2019 08:22:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/foreachn/public_html/medical/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[15-Jun-2019 08:22:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/foreachn/public_html/medical/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[15-Jun-2019 08:23:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/foreachn/public_html/medical/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[15-Jun-2019 08:23:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/foreachn/public_html/medical/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[15-Jun-2019 08:26:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/foreachn/public_html/medical/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[15-Jun-2019 08:36:19 UTC] PHP Warning:  symlink(): File exists in /home/foreachn/public_html/medical/public/index.php on line 17

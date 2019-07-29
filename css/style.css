@@ -1,0 +1,38 @@
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Montserrat", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+section.Banner {background-color: #0596e5;background-image: linear-gradient(to right, #0596 , #7ce7d6);display: block;position: relative;width: 100%;height: 100%;overflow: hidden;}
+.banner_img>img {display: block;width: 100%;height: 100%;}
+.banner_img.col-lg-6.col-md-6.col-sm-12 {display: block;overflow: hidden;}
+.text_section>p {font-size: 16px;color: #fff;}
+.banner_text {display: flex;align-items: center;height: 593px;}
+span.text_italic {font-style: italic;font-size: 18px;}
+.text_section>h4 {font-size: 18px;color: #fff;line-height: 24px;font-weight: 700;}
+strong.bold_name {text-transform: uppercase;font-size: 24px;color: #16386d;}
+ul.services>li {list-style: none;display: inline-block;}
+ul.services {padding: 20px 0px 0px 0px;}
+ul.services>li {list-style: none;display: inline-block;text-align: center;font-size: 12px;color: #fff;line-height: 18px;padding-right: 20px;}
+section.download {padding: 25px 0px;background-color: #1d9dce;}
+h4.down_text {font-size: 24px;font-weight: 600;color: #fff;}
+ul.d_buttons>li {list-style: none;display: inline-block;padding-left: 20px;}
+ul.d_buttons.pull-right {margin: 0px;padding: 0px;}
+h2.py-3 {font-size: 40px;font-weight: 100;}
+p.bottom-text {font-size: 18px;bottom: 0px;display: block;position: relative;margin: 0px;}
+section#testimonial {padding: 60px 0px;}
+.form-group>label {font-size: 14px;font-weight: 400;}
+
+
+@media (max-width:767px){
+    .banner_text{height:auto; padding:30px 0;}
+    
+    
+}
